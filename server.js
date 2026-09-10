@@ -71,7 +71,7 @@ button{
 <body>
 
 <div class="box" id="login">
-<h1>🤖 Logo AI</h1>
+<h1> Logo AI</h1>
 <p>Login করুন</p>
 
 <input id="user" placeholder="Username">
